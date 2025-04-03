@@ -4,9 +4,7 @@ Este projeto é um desafio proposto no curso **Full Cycle**, com o objetivo de i
 
 ## :computer: Desafio
 
-Neste desafio você terá que usar o que aprendemos com Multithreading e APIs para buscar o resultado mais rápido entre duas APIs distintas.
-
-As duas requisições serão feitas simultaneamente para as seguintes APIs:
+Neste desafio você terá que usar o que aprendemos com Multithreading e APIs para buscar o resultado mais rápido entre duas APIs distintas. As duas requisições serão feitas simultaneamente para as seguintes APIs:
 
 - [BrasilAPI](https://brasilapi.com.br)
 `https://brasilapi.com.br/api/cep/v1/ + cep`
@@ -14,7 +12,7 @@ As duas requisições serão feitas simultaneamente para as seguintes APIs:
 - [ViaCEP](https://viacep.com.br)
 `http://viacep.com.br/ws/" + cep + "/json/`
 
-Os requisitos para este desafio são:
+###### Os requisitos para este desafio são
 
 - Acatar a API que entregar a resposta mais rápida e descartar a resposta mais lenta.
 
